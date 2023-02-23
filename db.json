@@ -248,9 +248,9 @@
         "rating": 4.3,
         "reviews": "1.6k reviews",
         "title": "MB Fuel One Whey Protein Immunity+, 4.4 lb Chocolate",
-        "newprice": "₹3,549",
-        "oldprice": "₹5,099",
-        "premium": "₹3,443\nfor Premium Member"
+        "newprice": 3549,
+        "oldprice": 5099,
+        "premium": 3443
       },
       {
         "Position": 2,
@@ -258,9 +258,9 @@
         "rating": 4.6,
         "reviews": "2.8k reviews",
         "title": "HealthKart HK Vitals Multivitamin with Multimineral,Taurine & Ginseng Extract, 60 tablet(s) Unflavoured",
-        "newprice": "₹425",
-        "oldprice": "₹529",
-        "premium": "₹412\nfor Premium Member"
+        "newprice": 425,
+        "oldprice": 529,
+        "premium": 412
       },
       {
         "Position": 3,
@@ -268,9 +268,9 @@
         "rating": 4.6,
         "reviews": "1.7k reviews",
         "title": "MuscleBlaze High Protein Peanut Butter, 0.750 kg Dark Chocolate Creamy",
-        "newprice": "₹529",
-        "oldprice": "₹599",
-        "premium": "₹513\nfor Premium Member"
+        "newprice": 529,
+        "oldprice": 599,
+        "premium": 513
       },
       {
         "Position": 4,
@@ -278,9 +278,9 @@
         "rating": 4.5,
         "reviews": "10 reviews",
         "title": "Proquest Raw Whey Protein, 8.8 lb Unflavoured",
-        "newprice": "₹5,999",
-        "oldprice": "₹9,999",
-        "premium": "₹5,819\nfor Premium Member"
+        "newprice":5999,
+        "oldprice": 9999,
+        "premium":5819
       },
       {
         "Position": 5,
@@ -288,9 +288,9 @@
         "rating": 4.6,
         "reviews": "162 reviews",
         "title": "TrueBasics T Boost, 60 tablet(s) Unflavoured",
-        "newprice": "₹699",
-        "oldprice": "₹899",
-        "premium": "₹678\nfor Premium Member"
+        "newprice": 699,
+        "oldprice": 899,
+        "premium": 678
       },
       {
         "Position": 6,
@@ -298,9 +298,9 @@
         "rating": 4.7,
         "reviews": "847 reviews",
         "title": "Ultimate Nutrition ISO Sensation 93, 5 lb Chocolate Fudge",
-        "newprice": "₹10,299",
-        "oldprice": "₹12,999",
-        "premium": "₹9,784\nfor Premium Member"
+        "newprice": 10299,
+        "oldprice": 12999,
+        "premium":9784
       },
       {
         "Position": 7,
@@ -308,9 +308,9 @@
         "rating": 4.4,
         "reviews": "196 reviews",
         "title": "MuscleBlaze High Protein Oats, 2 kg Dark Chocolate",
-        "newprice": "₹1,199",
-        "oldprice": "₹1,275",
-        "premium": "₹1,163\nfor Premium Member"
+        "newprice": 1199,
+        "oldprice": 1275,
+        "premium":1163
       },
       {
         "Position": 8,
@@ -318,9 +318,9 @@
         "rating": "",
         "reviews": "",
         "title": "Genetic Nutrition Mega Garcinia Cambogia, 30 capsules",
-        "newprice": "₹430",
-        "oldprice": "₹699",
-        "premium": "₹409\nfor Premium Member"
+        "newprice": 430,
+        "oldprice": 699,
+        "premium": 409
       },
       {
         "Position": 9,
@@ -328,9 +328,9 @@
         "rating": 4.1,
         "reviews": "47 reviews",
         "title": "MuscleBlaze Super Gainer Black, 11 lb Chocolate",
-        "newprice": "₹4,299",
-        "oldprice": "₹6,599",
-        "premium": "₹4,170\nfor Premium Member"
+        "newprice": 4299,
+        "oldprice": 6599,
+        "premium": 4170
       },
       {
         "Position": 10,
@@ -338,9 +338,9 @@
         "rating": 4.6,
         "reviews": "116 reviews",
         "title": "Isopure Low Carb, 7.5 lb Dutch Chocolate",
-        "newprice": "₹16,279",
-        "oldprice": "₹18,499",
-        "premium": "₹15,791\nfor Premium Member"
+        "newprice": 16279,
+        "oldprice": 18499,
+        "premium": 15791
       },
       {
         "Position": 11,
@@ -348,9 +348,9 @@
         "rating": 4.7,
         "reviews": "51 reviews",
         "title": "MuscleBlaze Biozyme Daily Multivitamin, 90 tablet(s) Unflavoured",
-        "newprice": "₹999",
-        "oldprice": "₹1,299",
-        "premium": "₹969\nfor Premium Member"
+        "newprice": 999,
+        "oldprice": 1299,
+        "premium": 969
       },
       {
         "Position": 12,
@@ -358,9 +358,9 @@
         "rating": "",
         "reviews": "",
         "title": "Noise ColorFit Beat Smartwatch, Deep Wine Free Size",
-        "newprice": "₹1,799",
-        "oldprice": "₹4,999",
-        "premium": ""
+        "newprice": 1799,
+        "oldprice": 4999,
+        "premium": 3000
       }
     ],
     "topDeals":[
@@ -370,9 +370,9 @@
         "rating": 4.4,
         "reviews": "3.6k reviews",
         "title": "MuscleBlaze Whey Protein, 4 lb Rich Milk Chocolate",
-        "newprice": "₹4,849",
-        "oldprice": "₹6,399",
-        "premium": "₹4,704\nfor Premium Member"
+        "newprice": 4849,
+        "oldprice": 6399,
+        "premium": 4704
       },
       {
         "Position": 2,
@@ -380,9 +380,9 @@
         "rating": 4.3,
         "reviews": "290 reviews",
         "title": "MuscleBlaze Pre Workout Ripped, 0.55 lb Raspberry Lemonade",
-        "newprice": "₹1,999",
-        "oldprice": "₹2,199",
-        "premium": "₹1,939\nfor Premium Member"
+        "newprice": 1999,
+        "oldprice": 2199,
+        "premium": 1939
       },
       {
         "Position": 3,
@@ -390,9 +390,9 @@
         "rating": 4.6,
         "reviews": "629 reviews",
         "title": "MuscleBlaze Fish Oil (1000 mg) India's Only Labdoor USA Certified for Purity & Accuracy, 60 softgels",
-        "newprice": "₹499",
-        "oldprice": "₹679",
-        "premium": "₹484\nfor Premium Member"
+        "newprice":499,
+        "oldprice":679,
+        "premium": 484
       },
       {
         "Position": 4,
@@ -400,9 +400,9 @@
         "rating": 4.4,
         "reviews": "196 reviews",
         "title": "MuscleBlaze High Protein Oats, 2 kg Dark Chocolate",
-        "newprice": "₹1,199",
-        "oldprice": "₹1,275",
-        "premium": "₹1,163\nfor Premium Member"
+        "newprice":1199,
+        "oldprice":1275,
+        "premium": 1163
       }
     ],
     "pickDeals":[
@@ -412,9 +412,9 @@
         "rating": 4.5,
         "reviews": "2.3k reviews",
         "title": "MuscleBlaze Raw Whey Protein 80%, 2.2 lb Unflavoured",
-        "newprice": "₹1,999",
-        "oldprice": "₹2,849",
-        "premium": "₹1,939\nfor Premium Member"
+        "newprice":1999,
+        "oldprice":2849,
+        "premium": 1939
       },
       {
         "Position": 2,
@@ -422,9 +422,9 @@
         "rating": 4.7,
         "reviews": "61 reviews",
         "title": "HealthKart Fish Oil 60 Softgels with Multivitamin 60 vegetarian tablets, 2 Piece(s)/Pack",
-        "newprice": "₹675",
-        "oldprice": "₹998",
-        "premium": "₹655\nfor Premium Member"
+        "newprice":675,
+        "oldprice":998,
+        "premium": 655
       },
       {
         "Position": 3,
@@ -432,9 +432,9 @@
         "rating": 4.3,
         "reviews": "308 reviews",
         "title": "GNC Pro Performance 100% Whey Protein, 4 lb Chocolate Fudge",
-        "newprice": "₹4,499",
-        "oldprice": "₹7,499",
-        "premium": "₹4,274\nfor Premium Member"
+        "newprice":4499,
+        "oldprice":7499,
+        "premium": 4274
       },
       {
         "Position": 4,
@@ -442,9 +442,9 @@
         "rating": 4.4,
         "reviews": "2.7k reviews",
         "title": "MuscleBlaze Biozyme Performance Whey, 4.4 lb Rich Chocolate",
-        "newprice": "₹4,899",
-        "oldprice": "₹6,399",
-        "premium": "₹4,752\nfor Premium Member"
+        "newprice":4899,
+        "oldprice":6399,
+        "premium": 4752
       },
       {
         "Position": 5,
@@ -452,9 +452,9 @@
         "rating": "",
         "reviews": "",
         "title": "MuscleBlaze High Caffeine Workout Coffee, 0.11 lb Hazelnut Coffee with Herbs",
-        "newprice": "₹249",
-        "oldprice": "₹349",
-        "premium": "₹242\nfor Premium Member"
+        "newprice":249,
+        "oldprice":349,
+        "premium": 242
       },
       {
         "Position": 6,
@@ -462,9 +462,9 @@
         "rating": 4.4,
         "reviews": "3.2k reviews",
         "title": "ON (Optimum Nutrition) Gold Standard 100% Whey Protein, 5 lb Double Rich Chocolate",
-        "newprice": "₹7,126",
-        "oldprice": "₹8,099",
-        "premium": "₹6,912\nfor Premium Member"
+        "newprice":7126,
+        "oldprice":8099,
+        "premium": 6912
       },
       {
         "Position": 7,
@@ -472,9 +472,9 @@
         "rating": 4.6,
         "reviews": "910 reviews",
         "title": "MuscleBlaze MB-VITE Daily Multivitamin, for Enhanced Energy, Stamina & Gut Health, 60 tablet(s) Unflavoured",
-        "newprice": "₹499",
-        "oldprice": "₹699",
-        "premium": "₹484\nfor Premium Member"
+        "newprice":499,
+        "oldprice":699,
+        "premium": 484
       },
       {
         "Position": 8,
@@ -482,9 +482,9 @@
         "rating": 4.6,
         "reviews": "2.8k reviews",
         "title": "HealthKart HK Vitals Multivitamin with Multimineral,Taurine & Ginseng Extract, 90 tablet(s) Unflavoured",
-        "newprice": "₹574",
-        "oldprice": "₹729",
-        "premium": "₹557\nfor Premium Member"
+        "newprice":574,
+        "oldprice":729,
+        "premium": 557
       },
       {
         "Position": 9,
@@ -492,9 +492,9 @@
         "rating": 4.4,
         "reviews": "808 reviews",
         "title": "HealthKart HK Vitals Biotin (10000 mcg), 90 tablet(s) Unflavoured",
-        "newprice": "₹499",
-        "oldprice": "₹659",
-        "premium": "₹484\nfor Premium Member"
+        "newprice":499,
+        "oldprice":659,
+        "premium": 484
       },
       {
         "Position": 10,
@@ -502,9 +502,9 @@
         "rating": 4.3,
         "reviews": "1.6k reviews",
         "title": "MB Fuel One Whey Protein Immunity+, 4.4 lb Chocolate",
-        "newprice": "₹3,549",
-        "oldprice": "₹5,099",
-        "premium": "₹3,443\nfor Premium Member"
+        "newprice":3549,
+        "oldprice":5099,
+        "premium": 3443
       },
       {
         "Position": 11,
@@ -512,9 +512,9 @@
         "rating": 4.6,
         "reviews": "2.3k reviews",
         "title": "HealthKart HK Vitals Fish Oil 1000mg with 180mg EPA and 120mg DHA, 60 capsules",
-        "newprice": "₹399",
-        "oldprice": "₹469",
-        "premium": "₹387\nfor Premium Member"
+        "newprice":399,
+        "oldprice":469,
+        "premium": 387
       },
       {
         "Position": 12,
@@ -522,9 +522,9 @@
         "rating": 4.2,
         "reviews": "62 reviews",
         "title": "MuscleTech NitroTech Whey Protein, 4.4 lb Milk Chocolate - India",
-        "newprice": "₹6,198",
-        "oldprice": "₹7,799",
-        "premium": ""
+        "newprice": 6198,
+        "oldprice": 7799,
+        "premium":5999
       }
     ],
     "fitfoods":[
@@ -534,9 +534,9 @@
         "rating": 4.6,
         "reviews": "1.7k reviews",
         "title": "MuscleBlaze High Protein Peanut Butter, 1 kg Dark Chocolate Creamy",
-        "nreprice": "₹629",
-        "oldprice": "₹749",
-        "premium": "₹610\nfor Premium Member"
+        "nreprice":629,
+        "oldprice":749,
+        "premium": 610
       },
       {
         "Position": 2,
@@ -544,9 +544,9 @@
         "rating": 4.5,
         "reviews": "673 reviews",
         "title": "MuscleBlaze High Protein Muesli, 1 kg Dark Chocolate & Cranberry",
-        "nreprice": "₹725",
-        "oldprice": "₹825",
-        "premium": "₹703\nfor Premium Member"
+        "nreprice":725,
+        "oldprice":825,
+        "premium": 703
       },
       {
         "Position": 3,
@@ -554,9 +554,9 @@
         "rating": 4.6,
         "reviews": "377 reviews",
         "title": "Myfitness Chocolate Peanut Butter, 1.2 kg Smooth",
-        "nreprice": "₹549",
-        "oldprice": "₹649",
-        "premium": "₹522\nfor Premium Member"
+        "nreprice":549,
+        "oldprice":649,
+        "premium": 522
       },
       {
         "Position": 4,
@@ -564,9 +564,9 @@
         "rating": 4.4,
         "reviews": "196 reviews",
         "title": "MuscleBlaze High Protein Oats, 1 kg Dark Chocolate",
-        "nreprice": "₹649",
-        "oldprice": "₹695",
-        "premium": "₹630\nfor Premium Member"
+        "nreprice":649,
+        "oldprice":695,
+        "premium": 630
       },
       {
         "Position": 5,
@@ -574,9 +574,9 @@
         "rating": 4.7,
         "reviews": "56 reviews",
         "title": "Yogabars Wholegrain Breakfast Muesli, 0.700 kg Dark Chocolate and Cranberry",
-        "nreprice": "₹439",
-        "oldprice": "₹499",
-        "premium": ""
+        "nreprice": 439,
+        "oldprice": 499,
+        "premium":299
       },
       {
         "Position": 6,
@@ -584,9 +584,9 @@
         "rating": 4.4,
         "reviews": "17 reviews",
         "title": "MuscleBlaze Protein Bar (20 gm Protein), 6 bar(s) Choco Cranberry",
-        "nreprice": "₹650",
-        "oldprice": "₹750",
-        "premium": "₹631\nfor Premium Member"
+        "nreprice":650,
+        "oldprice":750,
+        "premium": 631
       }
     ],
     "wellness&personel":[
@@ -596,9 +596,9 @@
         "rating": 4.6,
         "reviews": "2.8k reviews",
         "title": "HealthKart HK Vitals Multivitamin with Multimineral,Taurine & Ginseng Extract, 90 tablet(s) Unflavoured",
-        "newprice": "₹574",
-        "oldprice": "₹729",
-        "premium": "₹557\nfor Premium Member"
+        "newprice": 574,
+        "oldprice": 729,
+        "premium": 557
       },
       {
         "Position": 2,
@@ -606,9 +606,9 @@
         "rating": "3.8",
         "reviews": "3.9k reviews",
         "title": "HealthKart HK Vitals Biotin Shampoo, 175 ml with Red Onion Extract",
-        "newprice": "₹259",
-        "oldprice": "₹299",
-        "premium": "₹251\nfor Premium Member"
+        "newprice":259,
+        "oldprice":299,
+        "premium": 251
       },
       {
         "Position": 3,
@@ -616,9 +616,9 @@
         "rating": 4.4,
         "reviews": "808 reviews",
         "title": "HealthKart HK Vitals Biotin (10000 mcg), 90 tablet(s) Unflavoured",
-        "newprice": "₹499",
-        "oldprice": "₹659",
-        "premium": "₹484\nfor Premium Member"
+        "newprice":499,
+        "oldprice":659,
+        "premium": 484
       },
       {
         "Position": 4,
@@ -626,9 +626,9 @@
         "rating": 4.6,
         "reviews": "808 reviews",
         "title": "HealthKart HK Vitals Collagen Face Moisturizer, 50 ml with Hyaluronic Acid",
-        "newprice": "₹479",
-        "oldprice": "₹559",
-        "premium": "₹465\nfor Premium Member"
+        "newprice":479,
+        "oldprice":559,
+        "premium": 465
       },
       {
         "Position": 5,
@@ -636,9 +636,9 @@
         "rating": 4.5,
         "reviews": "460 reviews",
         "title": "TrueBasics Fish Oil with 1250mg Omega-3 560mg EPA 400mg DHA, 60 capsules",
-        "newprice": "₹799",
-        "oldprice": "₹999",
-        "premium": "₹775\nfor Premium Member"
+        "newprice":799,
+        "oldprice":999,
+        "premium": 775
       },
       {
         "Position": 6,
@@ -646,9 +646,9 @@
         "rating": 5.00,
         "reviews": "3.4k reviews",
         "title": "HealthKart HK Vitals Vitamin E Face Wash, 100 ml with AHA & PHA",
-        "newprice": "₹239",
-        "oldprice": "₹279",
-        "premium": "₹232\nfor Premium Member"
+        "newprice":239,
+        "oldprice":279,
+        "premium": 232
       },
       {
         "Position": 7,
@@ -656,9 +656,9 @@
         "rating": 4.3,
         "reviews": "102 reviews",
         "title": "HealthKart HK Vitals Skin Radiance Collagen, 200 g Orange",
-        "newprice": "₹869",
-        "oldprice": "₹1,099",
-        "premium": "₹843\nfor Premium Member"
+        "newprice":869,
+        "oldprice":1099,
+        "premium": 843
       },
       {
         "Position": 8,
@@ -666,9 +666,9 @@
         "rating": "",
         "reviews": "",
         "title": "HealthKart HK Vitals Collagen Face Cleanser, 100 ml with Aloe Vera",
-        "newprice": "₹259",
-        "oldprice": "₹309",
-        "premium": "₹251\nfor Premium Member"
+        "newprice":259,
+        "oldprice":309,
+        "premium": 251
       }
     ],
     "workoutEssential":[
@@ -678,9 +678,10 @@
         "rating": 4.6,
         "reviews": "592 reviews",
         "title": "ON (Optimum Nutrition) Micronized Creatine Powder, Unflavoured 0.55 lb",
-        "newprice": "₹1,259",
-        "oldprice": "₹1,399",
-        "premium": "₹1,221\nfor Premium Member"
+        "newprice":1259,
+        "oldprice":1399,
+        "premium": 1221
+      
       },
       {
         "Position": 2,
@@ -688,9 +689,9 @@
         "rating": 4.6,
         "reviews": "394 reviews",
         "title": "GNC Creatine Monohydrate, Unflavoured 0.55 lb",
-        "newprice": "₹1,199",
-        "oldprice": "₹2,199",
-        "premium": "₹1,139\nfor Premium Member"
+        "newprice":1199,
+        "oldprice":2199,
+        "premium": 1139
       },
       {
         "Position": 3,
@@ -698,9 +699,9 @@
         "rating": 4.4,
         "reviews": "240 reviews",
         "title": "MuscleTech Platinum 100% Creatine, Unflavoured 0.88 lb",
-        "newprice": "₹2,042",
-        "oldprice": "₹2,199",
-        "premium": ""
+        "newprice": 2042,
+        "oldprice": 2199,
+        "premium":  1500
       },
       {
         "Position": 4,
@@ -708,9 +709,9 @@
         "rating": 4.4,
         "reviews": "131 reviews",
         "title": "Cellucor C4 Explosive Preworkout, 0.85 lb Watermelon",
-        "newprice": "₹4,898",
-        "oldprice": "₹5,499",
-        "premium": "₹4,653\nfor Premium Member"
+        "newprice":4898,
+        "oldprice":5499,
+        "premium": 4653
       },
       {
         "Position": 5,
@@ -718,9 +719,9 @@
         "rating": 4.5,
         "reviews": "424 reviews",
         "title": "Scivation Xtend BCAA (Intra Workout Catalyst), 0.9 lb 30 Servings Mango Madness",
-        "newprice": "₹2,835",
-        "oldprice": "₹3,499",
-        "premium": "₹2,693\nfor Premium Member"
+        "oldprice":3499,
+        "newprice":2835,
+        "premium": 2693
       },
       {
         "Position": 6,
@@ -728,9 +729,9 @@
         "rating": 4.5,
         "reviews": "424 reviews",
         "title": "Scivation Xtend BCAA (Intra Workout Catalyst), 0.9 lb 30 Servings Blue Raspberry Ice",
-        "newprice": "₹2,799",
-        "oldprice": "₹3,699",
-        "premium": "₹2,659\nfor Premium Member"
+        "oldprice":3699,
+        "newprice":2799,
+        "premium": 2659
       },
       {
         "Position": 7,
@@ -738,9 +739,9 @@
         "rating": 4.6,
         "reviews": "90 reviews",
         "title": "MuscleTech Platinum Multi Vitamin, 90 tablet(s) Unflavoured",
-        "newprice": "₹1,699",
-        "oldprice": "",
-        "premium": ""
+        "newprice": 1699,
+        "oldprice": 1799,
+        "premium": 1200
       }
     ],
     "priceslashAlert":[
@@ -750,9 +751,9 @@
         "rating": 4.1,
         "reviews": "27 reviews",
         "title": "MuscleBlaze Pre Workout WrathX, 1.1 lb Fruit Fury",
-        "newprice": "₹2,049",
-        "oldprice": "₹3,499",
-        "premium": "₹1,988\nfor Premium Member"
+        "newprice":2049,
+        "oldprice":3499,
+        "premium": 1988
       },
       {
         "Position": 2,
@@ -760,9 +761,9 @@
         "rating": "",
         "reviews": "",
         "title": "MuscleBlaze Super Gainer XXL OP old, 6.6 lb Chocolate",
-        "newprice": "₹2,349",
-        "oldprice": "₹3,749",
-        "premium": "₹2,279\nfor Premium Member"
+        "newprice":2349,
+        "oldprice":3749,
+        "premium": 2279
       },
       {
         "Position": 3,
@@ -770,9 +771,9 @@
         "rating": 4.5,
         "reviews": "3.5k reviews",
         "title": "MuscleBlaze Creatine Monohydrate, Unflavoured 0.55 lb",
-        "newprice": "₹1,099",
-        "oldprice": "₹1,649",
-        "premium": "₹1,066\nfor Premium Member"
+        "newprice":1099,
+        "oldprice":1649,
+        "premium": 1066
       },
       {
         "Position": 4,
@@ -780,9 +781,9 @@
         "rating": 5,
         "reviews": "3 reviews",
         "title": "MuscleBlaze MB-VITE Multivitamin for Immunity-100% RDA of Vit C, D, Zinc OP, 60 tablet(s) Unflavoured",
-        "newprice": "₹649",
-        "oldprice": "",
-        "premium": "₹630\nfor Premium Member"
+        "newprice":649,
+        "oldprice":899,
+        "premium": 630
       }
     ],
     "cart":[]
